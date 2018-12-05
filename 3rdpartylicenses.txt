@@ -618,7 +618,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+@ngx-translate/http-loader
+MIT
+
 @angular/router
+MIT
+
+@ngx-translate/core
 MIT
 
 @angular/flex-layout
@@ -1083,6 +1089,9 @@ ng2-pdf-viewer
 MIT
 
 @angular/forms
+MIT
+
+@angular/http
 MIT
 
 @angular/fire/auth
